@@ -8,7 +8,11 @@ export default class Header extends React.Component {
 
         <div id="links">
           <ul>
-            <li>My Account</li>
+            <li>
+              <button type="button" onClick={() => this.props.pageChangeHandler(1)}>
+                My Account
+              </button>
+            </li>
             <li>Help</li>
           </ul>
         </div>
