@@ -1,2 +1,0 @@
-# zBay
-Created with CodeSandbox
