@@ -1,5 +1,4 @@
 import React from 'react';
-import AuctionBidBox from './AuctionBidBox';
 
 export default class Main extends React.Component {
   render() {
